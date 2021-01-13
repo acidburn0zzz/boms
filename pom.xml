@@ -102,7 +102,7 @@
         <version.org.hibernate>5.1.10.Final</version.org.hibernate>
         <version.org.hibernate.commons-annotations>5.0.1.Final</version.org.hibernate.commons-annotations>
         <version.org.hibernate-jpamodelgen>${version.org.hibernate}</version.org.hibernate-jpamodelgen>
-        <version.org.hibernate.validator>5.3.5.Final</version.org.hibernate.validator>
+        <version.org.hibernate.validator>7.0.0.Final</version.org.hibernate.validator>
         <version.org.hibernate.search>5.5.8.Final</version.org.hibernate.search>
 
         <!-- Versions of projects not directly under JBoss umbrella -->
