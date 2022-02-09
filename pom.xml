@@ -76,7 +76,7 @@
 
         <version.org.apache.cxf>3.1.12</version.org.apache.cxf>
         <version.org.jboss.ws.cxf>5.1.9.Final</version.org.jboss.ws.cxf>
-        <version.org.infinispan>8.2.8.Final</version.org.infinispan>
+        <version.org.infinispan>11.0.6.Final</version.org.infinispan>
         <version.org.jboss.arquillian>1.1.13.Final</version.org.jboss.arquillian>
         <version.org.jboss.arquillian.extension.drone>2.3.1</version.org.jboss.arquillian.extension.drone>
         <version.org.jboss.arquillian.graphene>2.3.1</version.org.jboss.arquillian.graphene>
