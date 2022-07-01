@@ -74,7 +74,7 @@
         <version.io.undertow>1.4.18.Final</version.io.undertow>
         <version.io.undertow.js>1.0.2.Final</version.io.undertow.js>
 
-        <version.org.apache.cxf>3.1.12</version.org.apache.cxf>
+        <version.org.apache.cxf>3.1.14</version.org.apache.cxf>
         <version.org.jboss.ws.cxf>5.1.9.Final</version.org.jboss.ws.cxf>
         <version.org.infinispan>8.2.8.Final</version.org.infinispan>
         <version.org.jboss.arquillian>1.1.13.Final</version.org.jboss.arquillian>
