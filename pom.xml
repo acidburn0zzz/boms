@@ -99,7 +99,7 @@
         <version.org.wildfly.discovery>1.0.0.Final</version.org.wildfly.discovery>
 
         <!-- Version of Hibernate projects -->
-        <version.org.hibernate>5.1.10.Final</version.org.hibernate>
+        <version.org.hibernate>5.3.20.Final</version.org.hibernate>
         <version.org.hibernate.commons-annotations>5.0.1.Final</version.org.hibernate.commons-annotations>
         <version.org.hibernate-jpamodelgen>${version.org.hibernate}</version.org.hibernate-jpamodelgen>
         <version.org.hibernate.validator>5.3.5.Final</version.org.hibernate.validator>
